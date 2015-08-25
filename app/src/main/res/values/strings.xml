@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">proCon</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_add_problem">Add Problem</string>
+    <string name="problemName">Should I...</string>
+    <string name="problemWeight">Problem Importance</string>
+    <string name="addButton">Add</string>
+    <string name="title_activity_add_reason">Add Reason</string>
+    <string name="reasonName">Because...</string>
+    <string name="reasonWeight">Weight</string>
+    <string name="addReasonButton">Add</string>
+    <string name="title_activity_reasons_list">Reasons</string>
+    <string name="goalText">Towards which goal?</string>
+    <string name="addExpiryDateText">Add Expiry Date</string>
+    <string name="addExpiryTimeText">Add Expiry Time</string>
+</resources>
